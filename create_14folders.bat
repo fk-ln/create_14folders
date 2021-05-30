@@ -2,8 +2,8 @@
 cd /d %~dp0
 
 
-set dai="‘æ"
-set kai="‰ñ"
+set dai="ç¬¬"
+set kai="å›ž"
 
 for /l %%i in (1,1,14) do (
 	mkdir %dai%%%i%kai%
